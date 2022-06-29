@@ -1,0 +1,65 @@
+.someClass {
+
+}
+
+.affairs {
+}
+
+
+.buttons {
+    display: flex;
+    gap: 1rem;
+    margin: 0 1rem;
+
+}
+
+.buttons button {
+    width: 4rem;
+    display: block;
+    background: darkgreen;
+    color: greenyellow;
+}
+
+.buttons button:hover {
+    background: rgba(0, 148, 0, 0.8);
+    border: 1px solid rgb(0, 52, 0);
+}
+
+.affair {
+    margin: 0.5rem 1rem;
+    display: flex;
+    gap: 1rem;
+    display: flex;
+    align-items: flex-start;
+}
+
+.affairName {
+    width: 7rem;
+}
+
+.affairButton {
+    width: 5rem;
+    display: block;
+    background: darkgreen;
+    color: greenyellow;
+}
+
+.affairButton:hover {
+    background: rgba(0, 148, 0, 0.8);
+    border: 1px solid rgb(0, 52, 0);
+}
+
+.low {
+    width: 6rem;
+    color: green;
+}
+
+.middle {
+    width: 6rem;
+    color: orange;
+}
+
+.high {
+    width: 6rem;
+    color: red
+}
