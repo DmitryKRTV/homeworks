@@ -1,0 +1,30 @@
+.superInput {
+    outline: none;
+    margin: 0.3rem;
+    padding: 0.2rem;
+    border: none;
+    transition-duration: 0.5s;
+}
+
+.superInput:hover {
+    outline: none;
+    box-shadow: 0 0 0.2rem 0.2rem #18b5a4;
+}
+
+.superInput:focus {
+    outline: none;
+    box-shadow: 0 0 0.2rem 0.2rem #18b5a4;
+}
+
+.errorInput {
+    box-shadow: 0 0 0.2rem 0.2rem red;
+    border: 1px solid red;
+}
+
+.error {
+    color: red;
+}
+
+.blue {
+    border-bottom: blue;
+}
