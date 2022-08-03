@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+/src/p2-homeworks/h5/
+/src/p2-homeworks/h5-rrd-v6/
+/src/p2-homeworks/h6/
+/src/p2-homeworks/h7/
+/src/p2-homeworks/h8/
+/src/p2-homeworks/h9/
+/src/p2-homeworks/h10/
+/src/p2-homeworks/h11/
+/src/p2-homeworks/h12/
