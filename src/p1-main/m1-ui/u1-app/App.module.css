@@ -3,3 +3,8 @@
     background: url("https://wallpaperaccess.com/full/2217435.jpg") center center/cover;
     color: limegreen;
 }
+
+a, a:visited {
+    text-decoration: none;
+    color: limegreen;
+}
