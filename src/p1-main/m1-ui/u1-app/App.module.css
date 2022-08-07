@@ -2,9 +2,7 @@
     height: 100vh;
     background: url("https://wallpaperaccess.com/full/2217435.jpg") center center/cover;
     color: limegreen;
+    padding: 1rem 0;
 }
 
-a, a:visited {
-    text-decoration: none;
-    color: limegreen;
-}
+

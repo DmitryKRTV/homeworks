@@ -1,0 +1,36 @@
+.header {
+    margin: 0.5rem 0; /*equals to 8px*/
+    display: flex;
+    text-align: center;
+    transform: translate(-13.5rem);
+    transition-duration: 500ms;
+}
+
+.header:hover {
+    transition-duration: 500ms;
+    transform: translate(0);
+}
+
+.header:hover .triangle {
+    transition-duration: 500ms;
+    transform: rotate(90deg);
+}
+
+.header a, a:visited {
+    text-decoration: none;
+    color: limegreen;
+}
+
+.header a:hover {
+    color: #7832cd;
+}
+
+.triangle {
+    margin: 0 1rem;
+    border: 0.7rem solid transparent;
+    border-right: 0.7rem solid green;
+    border-bottom: 0.7rem solid green;
+    transition-duration: 500ms;
+}
+
+
