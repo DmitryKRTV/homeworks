@@ -1,0 +1,14 @@
+.globalDiv {
+    display: grid;
+    width: 200px;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.valueDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20px;
+    margin: 0 10px;
+    padding-bottom: 5px;
+}

@@ -21,4 +21,4 @@ export const loadingReducer = (state = initState, action: FinalActionType): Stat
 export const loadingAC = (isLoading: boolean) => ({
     type: "CHANGE_LOADING",
     payload: isLoading
-}) // fix any
+}) as const // fix any
